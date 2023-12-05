@@ -1,6 +1,7 @@
 .idea
 AdventOfCode.iml
 
+**/input*.txt
 
 # Added by cargo
 
