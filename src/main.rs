@@ -13,7 +13,7 @@ fn main() -> anyhow::Result<()> {
   let mut input = String::new();
   std::io::stdin().read_to_string(&mut input)?;
 
-  year_2023::day_8::part_2(input);
+  year_2023::day_9::part_2(input);
 
   Ok(())
 }
