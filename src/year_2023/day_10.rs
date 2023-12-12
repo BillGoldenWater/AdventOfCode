@@ -8,7 +8,6 @@ use std::sync::atomic::AtomicU8;
 use std::sync::atomic::Ordering::Relaxed;
 
 use itertools::Itertools;
-use num::traits::real::Real;
 
 use crate::utils::Then;
 
